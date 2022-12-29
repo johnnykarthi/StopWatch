@@ -25,7 +25,9 @@ span{
 
 
 .wm{
-    font-size: 10px;
+    font-size: 5px;
+    font-weight: bold;
+    letter-spacing: .5rem;
 }
 
 .timer-circle{
